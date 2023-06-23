@@ -22,4 +22,4 @@ The preview of the example website is shown as below
 ![example](Assets/Expected.png)
 
 Meanwhile this is the link to my results 
-[Click Me!](https://rayhanzou-week1-assignment.netlify.app)
+[Click Me!](https://rayhanzou-week2-assignment.netlify.app)
